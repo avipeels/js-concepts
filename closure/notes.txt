@@ -1,1 +1,2 @@
-closure is when a function remenbers its lexical scope even when it is executed outside its lexical scope
+closure is when a function remembers its lexical scope even when it is executed outside its lexical scope. No matter
+the function gets passed to somewhere and gets executed there.
